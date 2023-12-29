@@ -98,7 +98,7 @@
   border: 1px solid var(--accent-color, #ff0070);
 }
 
-.header__theme-menu-button:focus-visible {
+.header__theme-menu-button:focus {
   outline: none;
 }
 .header__theme-menu-button:focus-visible {
