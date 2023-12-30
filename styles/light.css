@@ -1,4 +1,4 @@
-.page.theme_light {
+.theme_light {
   --decor-color: #ff8dcb;
   --bg-color: #fff1f7;
   --text-color: #353430;
@@ -36,7 +36,7 @@
   .page {
     background-image: url(../images/cover-image-light.png);
   }
-  
+
   .header__rec {
     display: none;
   }
